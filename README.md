@@ -1,1 +1,1 @@
-
+The GrandCoffee Static Website, a project developed using HTML, CSS, and JavaScript, offers an immersive coffee experience through elegant design, interactive features, and a comprehensive product catalog. This project prioritizes responsiveness and accessibility, providing a seamless and inclusive browsing experience for coffee enthusiasts.
